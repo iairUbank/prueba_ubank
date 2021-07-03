@@ -1,0 +1,23 @@
+id,name,type
+015981e401af4887becbec5f45c3cd4c,Vehiculo,project_categories
+4500593565e942d9876fa73734336157,"Solo ahorrar",project_categories
+6f3c645d720140d0be6063b26b1c423d,Otro,project_categories
+b252b4300a02483eb15812ff9e03b841,"Comprar algo",project_categories
+c173854d8d994c5cad7926cedb6b8770,Viajar,project_categories
+edd09901ae364ddb80347e40005d2244,Hogar,project_categories
+ff8ac02124d847bd8a1600ec2c969bea,Deudas,project_categories
+12864d3406744ac396d89d19c85ae1f8,Oxxo,merchants
+2cc2e29a30ec445fa42032b6039fa488,"Seven Eleven",merchants
+a5f7809608e64211a8e051ac51644320,Cinépolis,merchants
+b35b8370ccd54abc90175a7d6986dfa4,Starbucks,merchants
+b442e354514543388e41f1f8480923be,McDonalds,merchants
+75134d7134ed41f1a906d18a0710ad8e,"% de mi sueldo",rule_types
+7ff87139ef9b48eba2b12836b6ac336c,"Ahorro manual",rule_types
+8f6a28107c1641d5aff4a85972f5ee06,"Placer culpable",rule_types
+a34b4b3ffb714e0bb82ebeb94b79932d,"5 Kilómetros",rule_types
+ada15c0ee03340419da150f466cda604,"Gastar Menos",rule_types
+b30b058a53634cbcb1f589af13e6689f,"Monto fijo",rule_types
+c175e7bf6cf64677903bac9389a80cd9,Redondear,rule_types
+c265f8edebce4470a717c536dd133d23,"Santander TAP",rule_types
+c493284d852840c0802bf58ba9ab8cc3,"Desafío 52 semanas",rule_types
+d6fff0a96ef040fea92071e7221bef97,"Pasión Futbolera",rule_types
